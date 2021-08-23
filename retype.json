@@ -1,0 +1,32 @@
+{
+  "input": ".",
+  "output": ".retype",
+  "base": "portfolio",
+  "branding":
+  {
+    "title": "Marvin Jung",
+    "label": ""
+  },
+  "links": [
+    {
+      "text": "Home",
+      "link": "https://marvin-jung.github.io/portfolio/"
+    },
+    {
+      "text": "GitHub",
+      "link": "https://github.com/marvin-jung/"
+    },
+    {
+      "text": "Resume",
+      "link": "https://drive.google.com/file/d/17DU_vEeMo6tc_tRAySvi8J0emiXA0ELU/view?usp=sharing"
+    },
+    {
+      "text": "Linkedin",
+      "link": "https://linkedin.com/in/mrvnjung/"      
+    }
+  ],
+  "footer":
+  {
+    "copyright": "&copy; Copyright 2020 - {{ year }} Marvin Jung, All rights reserved."
+  }
+}
